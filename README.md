@@ -1,2 +1,2 @@
 # BCCompB11
-//Storing files to access anywhere for a intro JAVA class
+Storing files to access anywhere for a intro JAVA class
