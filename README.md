@@ -1,2 +1,2 @@
-# BCCompB11
-Storing files to access anywhere for a intro JAVA class
+# Comp-B11
+Good luck! All files have no order of progression in the class just sorted by name 😊
